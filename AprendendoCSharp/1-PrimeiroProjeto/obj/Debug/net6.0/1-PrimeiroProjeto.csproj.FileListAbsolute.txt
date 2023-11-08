@@ -1,0 +1,14 @@
+C:\sites\c-_primeiro_projeto\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\net6.0\1-PrimeiroProjeto.exe
+C:\sites\c-_primeiro_projeto\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\net6.0\1-PrimeiroProjeto.deps.json
+C:\sites\c-_primeiro_projeto\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\net6.0\1-PrimeiroProjeto.runtimeconfig.json
+C:\sites\c-_primeiro_projeto\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\net6.0\1-PrimeiroProjeto.dll
+C:\sites\c-_primeiro_projeto\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\net6.0\1-PrimeiroProjeto.pdb
+C:\sites\c-_primeiro_projeto\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\net6.0\1-PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\sites\c-_primeiro_projeto\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\net6.0\1-PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\sites\c-_primeiro_projeto\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\net6.0\1-PrimeiroProjeto.AssemblyInfo.cs
+C:\sites\c-_primeiro_projeto\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\net6.0\1-PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\sites\c-_primeiro_projeto\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\net6.0\1-PrimeiroProjeto.dll
+C:\sites\c-_primeiro_projeto\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\net6.0\refint\1-PrimeiroProjeto.dll
+C:\sites\c-_primeiro_projeto\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\net6.0\1-PrimeiroProjeto.pdb
+C:\sites\c-_primeiro_projeto\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\net6.0\1-PrimeiroProjeto.genruntimeconfig.cache
+C:\sites\c-_primeiro_projeto\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\net6.0\ref\1-PrimeiroProjeto.dll
